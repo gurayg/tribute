@@ -1,0 +1,28 @@
+body{
+  margin-top:60px;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.jumbotron h2:nth-of-type(-n+2){
+  padding-bottom:5px;
+  border-bottom: 1px solid #cccccc;
+}
+
+.imgtop{
+  width:600px;
+  border-radius:5px;
+  margin-bottom:10px;
+
+}
+
+.disco ul{
+  margin-bottom:0;
+}
+
+p.about{
+  font-size:1em;
+}
